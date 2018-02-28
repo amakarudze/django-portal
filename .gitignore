@@ -6,6 +6,10 @@
 /backend/src/db.sqlite3
 /backend/src/geckodriver.log
 
+# __pycache__
+backend/src/config/__pycache__/**
+
+
 # Angular frontend
 # dependencies
 /frontend/node_modules
