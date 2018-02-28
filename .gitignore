@@ -1,0 +1,33 @@
+# IDE
+/.idea
+
+# Django Backend
+# Sqlite database
+/backend/src/db.sqlite3
+/backend/src/geckodriver.log
+
+# Angular frontend
+# dependencies
+/frontend/node_modules
+
+# e2e
+/frontend/e2e/*.js
+/frontend/e2e/*.map
+
+# System Files
+/frontend/.DS_Store
+/frontend/Thumbs.db
+
+# misc
+/frontend/.sass-cache
+/frontend/connect.lock
+/frontend/coverage
+/frontend/libpeerconnection.log
+/frontend/npm-debug.log
+/frontend/testem.log
+/frontend/typings
+
+# compiled output
+/frontend/dist
+/frontend/tmp
+/frontend/out-tsc
