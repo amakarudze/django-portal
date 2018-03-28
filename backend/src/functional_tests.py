@@ -17,7 +17,6 @@ class NewVisitorTest(unittest.TestCase):
 
         # She notices the page title and header mention get-quote
         self.assertIn('Self-Care', self.browser.title)
-        self.fail('Finish the test!')
 
 
 # She is invited to enter a service item to request straight away
